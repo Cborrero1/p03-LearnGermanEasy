@@ -1,0 +1,163 @@
+span.hidden-message{
+  opacity: 0.0;
+}
+span.shown-message{
+  opacity: 1.0;
+}
+
+#HD{
+  opacity: 0.0;
+}
+
+#SM{
+  opacity: 1.0;
+}
+
+.pageDesign {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #008000;
+  color: #000000;
+}
+
+.Ex {
+ position: relative;
+ left: 50px;
+ max-width: 1300px;
+}
+
+#Ex {
+  position: relative;
+  left: 50px;
+  max-width: 1300px;
+}
+
+#ExSp1 {
+  position: relative;
+  left: 550px;
+  max-width: 800px;
+}
+
+.ExSp1 {
+  position: relative;
+  left: 250px;
+  max-width: 1000px;
+}
+
+.ExSp2 {
+  position: relative;
+  left: 340px;
+  max-width: 1000px;
+}
+
+.ExSp3 {
+  position: relative;
+  left: 550px;
+  max-width: 800px;
+}
+
+.ExSp4 {
+  position: relative;
+  left: 230px;
+  max-width: 800px;
+}
+
+#ExSp4 {
+  position: relative;
+  left: 230px;
+  max-width: 800px;
+}
+
+#Float {
+  float: left;
+  clear: left;
+}
+
+.HiLite {
+  color: darkred;
+}
+
+.Link {
+  color: darkblue;
+  font-size: 125%;
+}
+
+.BasicParEdit {
+  font-size: 125%;
+  max-width: 500px;
+  float: left;
+  clear: left;
+}
+
+#BasicFontSize {
+  font-size: 125%;
+  float: left;
+  clear: left;
+}
+
+#Bump {
+  font-size: 125%;
+}
+
+.Note {
+  max-width: 400px;
+  float: left;
+  clear: left;
+}
+
+.Image {
+  max-height: 400px;
+  max-width: 400px;
+}
+
+#Img1 {
+  position: absolute;
+  right: 200px;
+  bottom: 100px;
+}
+
+#Img2 {
+  position: absolute;
+  top: 300px;
+}
+
+
+.Credit {
+  font-size: 80%;
+}
+
+#Credit1 {
+  position: absolute;
+  left: 900px;
+  bottom: 500px;
+}
+
+#Credit2 {
+  position: absolute;
+  left: 100px;
+  bottom: 25px;
+}
+
+#Val {
+  position: relative;
+  left: 50px;
+}
+
+#Val2 {
+  position: relative;
+  left: 250px;
+}
+
+#Val3 {
+  position: relative;
+  left: 50px;
+}
+
+#Val1x2 {
+  position: relative;
+  left: 50px;
+}
+
+#Val1x3 {
+  position: relative;
+  left: 50px;
+}
